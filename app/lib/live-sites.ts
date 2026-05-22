@@ -8,7 +8,7 @@ export type LiveSite = {
 
 export const liveSites: LiveSite[] = [
   {
-    title: "La Casas Dei Limoni",
+    title: "La Casa Dei Limoni",
     category: "Live Website",
     description:
       "A published hospitality website with a warm destination feel, built around atmosphere, place, and a polished guest-facing experience.",
